@@ -4,8 +4,6 @@
         ".devcontainer": true,
         ".github": true,
         ".gitignore": true,
-        "LICENSE": true,
-        "README.md": true,
         ".vscode": true
     },
 }
